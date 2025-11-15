@@ -1,0 +1,11 @@
+[
+{"id":1,"title":"Aurora Wireless Headphones","category":"Audio","price":59.99,"rating":4.5,"desc":"Comfortable over-ear headphones with active noise cancellation","image":"https://images.unsplash.com/photo-1518444024634-3c4fbd2f1f5d?auto=format&fit=crop&w=800&q=60"},
+{"id":2,"title":"Nebula Smartwatch","category":"Wearables","price":129.99,"rating":4.2,"desc":"Fitness tracking and notifications with long battery life","image":"https://images.unsplash.com/photo-1515442261605-65987759f6a9?auto=format&fit=crop&w=800&q=60"},
+{"id":3,"title":"Orion Mechanical Keyboard","category":"Peripherals","price":89.99,"rating":4.8,"desc":"Tactile switches with customizable RGB lighting","image":"https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=60"},
+{"id":4,"title":"Lumen Desk Lamp","category":"Home","price":39.99,"rating":4.1,"desc":"Adjustable brightness and warm/cool lighting modes","image":"https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=800&q=60"},
+{"id":5,"title":"Strato Drone Mini","category":"Drones","price":249.99,"rating":4.7,"desc":"Compact drone with 4K camera and GPS","image":"https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=60"},
+{"id":6,"title":"Cascade Water Bottle","category":"Outdoors","price":19.99,"rating":4.0,"desc":"Insulated stainless steel bottle, 1L capacity","image":"https://images.unsplash.com/photo-1508766206392-8bd5cf550d1b?auto=format&fit=crop&w=800&q=60"},
+{"id":7,"title":"Pulse Portable Charger","category":"Power","price":24.99,"rating":4.3,"desc":"10,000mAh USB-C fast charging powerbank","image":"https://images.unsplash.com/photo-1592928300150-9b1bdf3480f2?auto=format&fit=crop&w=800&q=60"},
+{"id":8,"title":"Atlas Travel Backpack","category":"Travel","price":79.99,"rating":4.6,"desc":"Water-resistant backpack with laptop sleeve","image":"https://images.unsplash.com/photo-1520975912635-43b95a1b1e95?auto=format&fit=crop&w=800&q=60"},
+{"id":9,"title":"Echo Bluetooth Speaker","category":"Audio","price":45.99,"rating":4.4,"desc":"Portable speaker with deep bass and 12h playtime","image":"https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=800&q=60"}
+]
